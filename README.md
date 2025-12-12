@@ -1,6 +1,3 @@
-# EcoShop Final
-My final for CSC321-A-Web Application Development
-
 # EcoShop – Sustainable Living Marketplace
 
 EcoShop is a frontend-focused web application that demonstrates a sustainable e-commerce experience.  
